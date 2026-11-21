@@ -3,4 +3,5 @@
 The public privacy policy of Wattly, an EV charging tracker for iPhone.
 Published page: https://aandrson.github.io/wattly-privacy/
 
-Українською: політика приватності застосунку Wattly (облік зарядки електромобіля для iPhone). Текст двома мовами — у `index.html`.
+Languages: English, Українська, Deutsch, Français, Español, Nederlands, Italiano, Polski, Svenska, Norsk, Dansk, Português (Brasil).
+The page shows the language of your browser; the switcher at the top changes it.
